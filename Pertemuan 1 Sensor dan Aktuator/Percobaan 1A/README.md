@@ -475,11 +475,11 @@ Beberapa kendala yang terjadi selama pelaksanaan percobaan antara lain:
 
 ## Perangkaian Hardware
 
-![Foto Rangkaian](documentation/foto-rangkaian.jpg)
+![Foto Rangkaian](documentation/foto-rangkaian.jpeg)
 
 ## Hasil Serial Monitor
 
-![Serial Monitor](documentation/serial-monitor.png)
+![Serial Monitor](documentation/serial-monitor.jpeg)
 
 ---
 
