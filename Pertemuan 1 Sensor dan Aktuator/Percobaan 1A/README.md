@@ -287,7 +287,7 @@ Suhu: 28.10 °C, Kelembaban: 52 %
 
 ---
 
-# ⏱️ Fungsi `delay()`
+#  Fungsi `delay()`
 
 ```cpp
 delay(2000);
