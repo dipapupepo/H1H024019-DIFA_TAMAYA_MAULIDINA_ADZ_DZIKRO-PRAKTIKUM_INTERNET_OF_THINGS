@@ -691,11 +691,11 @@ Beberapa kendala yang dapat terjadi pada percobaan antara lain:
 
 ## Perangkaian Hardware
 
-![Foto Rangkaian](documentation/foto-rangkaian.jpeg)
+![Foto Rangkaian](documentation/foto-rangkaian.png)
 
 ## Hasil Serial Monitor
 
-![Serial Monitor](documentation/serial-monitor.jpeg)
+![Serial Monitor](documentation/serial-monitor.png)
 ---
 
 #  Kesimpulan
