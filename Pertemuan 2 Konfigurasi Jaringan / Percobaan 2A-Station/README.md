@@ -38,7 +38,7 @@ GND    ────────────────────────�
 
 ### Dokumentasi Rangkaian
 
-![Rangkaian Station](Documentation/rangkaian-sta.jpeg)
+![Rangkaian Station](Documentation/rangkaian%20sta.jpeg)
 
 ---
 
@@ -141,8 +141,15 @@ IP, MAC, dan RSSI tidak berubah karena pada program nilainya hanya ditampilkan k
 
 ### Hasil Serial Monitor
 
-![Hasil Serial Monitor](Documentation/bisa.jpeg)
+![Hasil Serial Monitor](Documentation/serial%20monitor%20STA.jpeg)
 
+### Pengujian Password Salah
+
+![Password WiFi Salah](Documentation/serial%20monitor%20ketika%20password%20salah.jpeg)
+
+### Pengujian SSID Salah
+
+![Nama WiFi Salah](Documentation/serial%20monitor%20ketika%20nama%20wifi%20salah.jpeg)
 ---
 
 ## E. Pertanyaan Praktikum
@@ -282,11 +289,18 @@ Percobaan sudah dilakukan menggunakan dua laptop, tetapi kendala yang sama masih
 
 ### Perangkaian Hardware
 
-![Rangkaian NodeMCU ESP8266](rangkaian-sta.jpeg)
+![Rangkaian Station](Documentation/rangkaian%20sta.jpeg)
 
 ### Hasil Serial Monitor
+![Hasil Serial Monitor](Documentation/serial%20monitor%20STA.jpeg)
 
-![Hasil Pengamatan Serial Monitor](bisa.jpeg)
+### Pengujian Password Salah
+
+![Password WiFi Salah](Documentation/serial%20monitor%20ketika%20password%20salah.jpeg)
+
+### Pengujian SSID Salah
+
+![Nama WiFi Salah](Documentation/serial%20monitor%20ketika%20nama%20wifi%20salah.jpeg)
 
 ---
 
