@@ -38,7 +38,7 @@ GND    ────────────────────────�
 
 ### Dokumentasi Rangkaian
 
-![Rangkaian Station](rangkaian-sta.jpeg)
+![Rangkaian Station](Documentation/rangkaian-sta.jpeg)
 
 ---
 
@@ -141,7 +141,7 @@ IP, MAC, dan RSSI tidak berubah karena pada program nilainya hanya ditampilkan k
 
 ### Hasil Serial Monitor
 
-![Hasil Serial Monitor](bisa.jpeg)
+![Hasil Serial Monitor](Documentation/bisa.jpeg)
 
 ---
 
