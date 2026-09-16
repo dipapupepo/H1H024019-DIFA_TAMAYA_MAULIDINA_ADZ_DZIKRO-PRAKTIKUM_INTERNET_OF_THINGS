@@ -53,7 +53,7 @@ httpbin.org/post
 
 ### Dokumentasi Rangkaian
 
-![Rangkaian HTTP dan MQTT](rangkaian%20http%26mqtt.jpeg)
+![Rangkaian HTTP dan MQTT](Documentation/rangkaian_http_mqtt.jpeg)
 
 ## E. Program
 
@@ -272,7 +272,7 @@ Satu kali pengiriman, yaitu data ke-4, mengalami kegagalan dengan kode error `-1
 
 ### Hasil Serial Monitor
 
-![Serial Monitor HTTP](serial%20monitor%20http.jpeg)
+![Serial Monitor HTTP](Documentation/serial_monitor_http.jpeg)
 
 ## I. Pertanyaan Praktikum
 
@@ -384,11 +384,11 @@ Kendala lainnya adalah nama file sketch masih menggunakan nama bawaan Arduino ID
 
 ### Perangkaian Hardware
 
-![Rangkaian HTTP dan MQTT](rangkaian%20http%26mqtt.jpeg)
+![Rangkaian HTTP dan MQTT](Documentation/rangkaian_http_mqtt.jpeg)
 
 ### Hasil Serial Monitor
 
-![Serial Monitor HTTP](serial%20monitor%20http.jpeg)
+![Serial Monitor HTTP](Documentation/serial_monitor_http.jpeg)
 
 ## L. Kesimpulan
 
